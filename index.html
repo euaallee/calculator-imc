@@ -1,39 +1,13 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>IMC</title>
-    <link rel="stylesheet" href="./src/style.css">
-    <script src="./src/script.js" defer></script>
+    <link rel="stylesheet" href="src/style.css">
+    <script src="src/script.js" defer></script>
 </head>
-
 <body>
-    <div class="alert">
-        <span>Digite somente números</span>
-    </div>
-    <div class="main">
-        <h1>Cálculo de IMC</h1>
-        <div class="campos">
-            <div class="campo">
-                <label for="peso">Peso (ex.: 69.2kg)</label>
-                <input type="text" name="peso" id="peso">
-            </div>
-
-            <div class="campo">
-                <label for="altura">Altura (ex.: 1.70m)</label>
-                <input type="text" name="altura" id="altura">
-            </div>
-        </div>
-        <button type="button">Calcular IMC <img src="src/img/arrow-up-right.svg" alt="arrowUp"
-                srcset=""></button>
-    </div>
-    <div class="bg"></div>
-    <div class="modal">
-        <img id="close" src="src/img/x.svg" alt="x" srcset="">
-        <p>Seu IMC é de 28</p>
-    </div>
+    <div id="app"></div>
 </body>
-
 </html>

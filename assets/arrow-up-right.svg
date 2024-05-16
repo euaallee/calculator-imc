@@ -1,0 +1,29 @@
+<svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="17" height="16" fill="#1E1E1E"/>
+<g id="screen1">
+<rect width="1280" height="720" transform="translate(-682 -472)" fill="#040924"/>
+<g id="card" filter="url(#filter0_d_6_4)">
+<rect x="-256" y="-342" width="428" height="440" rx="6" fill="white" shape-rendering="crispEdges"/>
+<g id="Group 35">
+<g id="Buttons">
+<rect x="-192" y="-18" width="300" height="52" rx="4" fill="#02799D"/>
+<g id="arrow-up-right">
+<path id="Vector" d="M3.1685 8.26205L14.3589 8.26213M14.3589 8.26213L9.64488 3.54808M14.3589 8.26213L9.64488 12.9762" stroke="white" stroke-width="1.20972" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_6_4" x="-260" y="-344" width="436" height="448" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_6_4"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_6_4" result="shape"/>
+</filter>
+</defs>
+</svg>
